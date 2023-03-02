@@ -1,5 +1,21 @@
 https://replit.com/@jpark-29/Flask-Project
 
+Routes: 
+
+@app.route('/')
+
+@app.route('/about')
+
+@app.route('/lucky')
+
+@app.route("/temp_demo")
+
+@app.route("/homework")
+
+@app.route('/welcome')
+
+@app.route("/form-demo",methods=['GET','POST'])
+
 * Instructions
 
 ** If you are presenting this unit:
